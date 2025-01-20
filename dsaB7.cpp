@@ -1,6 +1,6 @@
-/*
-Problem Statement: Construct an expression tree from the given prefix expression eg. +--a*bc/def and traverse it using postordertraversal(non recursive) and then delete the entire tree.
-*/
+
+//Problem Statement: Construct an expression tree from the given prefix expression eg. +--a*bc/def and traverse it using postordertraversal(non recursive) and then delete the entire tree.
+
 
 // BEGINNING OF CODE
 #include<iostream>
@@ -143,4 +143,4 @@ int main(){
         }
     }while(ch!=4);
 }
-// END OF CODE
+
